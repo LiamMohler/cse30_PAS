@@ -24,4 +24,4 @@ $ ./tree_lookup .... -> (how to use)
 
 1) filename: Input the CSV file name (required)
 2) -s: Prints descriptive metadata. (optional)
-3) -t: An integer specifying the size to be used to create the hash table, if not input will use default. (optional, must be followed by an integer)
+3) -t: An integer specifying the size to be used to create the hash table, if not input will use default. (optional)
