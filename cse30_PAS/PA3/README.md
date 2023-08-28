@@ -1,1 +1,1 @@
-PA3 is the game of life and is a mathematical simulation of a simplified evolution process. The simulation occurs on a two-dimensional grid of cells over a series of discrete timesteps. At any given timestep, each cell will either be “alive” or “dead” (encoded as 1 and 0 respectively), and each cell’s value for the next timestep will be computed based on the current values of its 8 direct neighbors. board.c and sim.c will create and simulate this simplified evolution process.
+# HW4-starter
